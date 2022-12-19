@@ -17,10 +17,12 @@ I - Cette page Web affiche des informations élémentaires sur les chevaux. Vous
     - "Hooved feet" -> "Des sabots"
 
 
-II - Utilisez maintenant jQuery pour remplacer le titre principal, en le sélectionnant à partir de son ID page-heading.
+II - Utilisez maintenant jQuery pour remplacer le titre principal, en le sélectionnant à partir de 
+son ID page-heading.
  Modifiez-le pour que cette page parle de 'All about unicorns' ('Tout sur les licornes').
 
-III - Finalement, utilisez jQuery pour sélectionner toutes les balises <span> qui possèdent le nom de classe animal
+III - Finalement, utilisez jQuery pour sélectionner toutes les balises <span> 
+qui possèdent le nom de classe animal
  et modifiez leur texte pour mettre à la place 'unicorns' ('licornes').
 
 
